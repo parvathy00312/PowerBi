@@ -1,0 +1,73 @@
+# Global Export Analysis Dashboard (Power BI)
+
+## 📊 Overview
+This project analyzes global export data for a company, focusing on sales, orders, products, and logistics performance. The dashboard provides insights into how different categories, countries, and employees contribute to overall exports.
+
+## 🎯 Objectives
+- Analyze export performance across countries and categories
+- Track total orders, sales, and product distribution
+- Understand employee contribution to exports
+- Identify top-performing products and discounted items
+- Explore logistics and shipping performance
+
+## 📌 Key Features
+- KPI cards showing Total Orders, Sales, Quantity, and Net Amount
+- Export analysis by category, country, and company
+- Employee-level performance tracking
+- Category-wise deep dive (Seafood, Beverages, Dairy, etc.)
+- Interactive filters for year, quarter, and month
+- Product-level insights including pricing and discounts
+- Geographic visualization using map charts
+
+## 🔍 Insights
+- Certain countries contribute significantly higher export volumes
+- A few product categories dominate total exports
+- Employee performance varies widely across regions
+- Discounted products show higher sales concentration
+- Logistics (freight and shipping companies) impact overall distribution efficiency
+
+## 🛠 Tools Used
+- Power BI
+- Data Modeling
+- Interactive Dashboard Design
+
+## 📁 Files
+- Export_Analysis.pbix
+- Export_Analysis.pdf
+
+## 📸 Dashboard Preview
+# Global Export Analysis Dashboard (Power BI)
+
+## 📊 Overview
+This project analyzes global export data for a company, focusing on sales, orders, products, and logistics performance. The dashboard provides insights into how different categories, countries, and employees contribute to overall exports.
+
+## 🎯 Objectives
+- Analyze export performance across countries and categories
+- Track total orders, sales, and product distribution
+- Understand employee contribution to exports
+- Identify top-performing products and discounted items
+- Explore logistics and shipping performance
+
+## 📌 Key Features
+- KPI cards showing Total Orders, Sales, Quantity, and Net Amount
+- Export analysis by category, country, and company
+- Employee-level performance tracking
+- Category-wise deep dive (Seafood, Beverages, Dairy, etc.)
+- Interactive filters for year, quarter, and month
+- Product-level insights including pricing and discounts
+- Geographic visualization using map charts
+
+## 🔍 Insights
+- Certain countries contribute significantly higher export volumes
+- A few product categories dominate total exports
+- Employee performance varies widely across regions
+- Discounted products show higher sales concentration
+- Logistics (freight and shipping companies) impact overall distribution efficiency
+
+## 🛠 Tools Used
+- Power BI
+- Data Modeling
+- Interactive Dashboard Design
+
+## 📸 Dashboard Preview
+ Global Export .PDF
